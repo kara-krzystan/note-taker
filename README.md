@@ -30,11 +30,17 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
 
 ### Website Link
-
-https://sheltered-garden-29553.herokuapp.com
+Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
 
 ### Screenshots
 
 ![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-
 ![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+
+### Built With
+* node.js
+* express.js
+
+### Questions?
+
+Contact me here on GitHub: http://github.com/kara-krzystan
