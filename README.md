@@ -37,6 +37,6 @@ Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.her
 ![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
 ![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
 
-### Questions?
+### Contact
 
-Contact me here on GitHub: http://github.com/kara-krzystan
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
